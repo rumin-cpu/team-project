@@ -1,2 +1,7 @@
 hello here is joewin
+<<<<<<< Updated upstream
 joewinnnnnnnnnnn
+=======
+hellooooooo
+>>>>>>> Stashed changes
+ABCD
